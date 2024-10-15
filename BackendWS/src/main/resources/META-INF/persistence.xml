@@ -5,7 +5,7 @@
              http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd"
 	version="2.0" xmlns="http://java.sun.com/xml/ns/persistence">
 	
-	<persistence-unit name="bdhibernate" transaction-type="RESOURCE_LOCAL">
+	<persistence-unit name="bdcdhibernate" transaction-type="RESOURCE_LOCAL">
 	   <class>logica.InstitucionDeportiva</class> 
 	    <class>logica.ActividadDeportiva</class>
 	    <class>logica.Clase</class>
