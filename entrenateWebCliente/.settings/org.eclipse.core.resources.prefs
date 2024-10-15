@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java/publicadores/ClaseRepetidaExcepcion.java=UTF-8
+encoding//src/main/java/publicadores/ControladorUsuarioPublish.java=UTF-8
+encoding//src/main/java/publicadores/ControladorUsuarioPublishPortBindingStub.java=UTF-8
+encoding//src/main/java/publicadores/ControladorUsuarioPublishService.java=UTF-8
+encoding//src/main/java/publicadores/ControladorUsuarioPublishServiceLocator.java=UTF-8
+encoding//src/main/java/publicadores/DtActividadDeportiva.java=UTF-8
+encoding//src/main/java/publicadores/DtClase.java=UTF-8
+encoding//src/main/java/publicadores/DtFecha.java=UTF-8
+encoding//src/main/java/publicadores/DtHora.java=UTF-8
+encoding//src/main/java/publicadores/DtProfesor.java=UTF-8
+encoding//src/main/java/publicadores/DtSocio.java=UTF-8
+encoding//src/main/java/publicadores/DtUsuario.java=UTF-8
+encoding//src/main/java/publicadores/LoginExcepcion.java=UTF-8
+encoding//src/main/java/publicadores/UsuarioEnUsoExcepcion.java=UTF-8
